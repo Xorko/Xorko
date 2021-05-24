@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Thibault, a developer from Bretagne, France 🇫🇷. I'm mostly self taught and passionate about code.
+I'm Thibault, a developer from Bretagne, France 🇫🇷. I'm mostly self-taught and passionate about code.
 
 Even if there is not a lot public on my GitHub, I experiment and read a lot.
 
