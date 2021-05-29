@@ -3,7 +3,7 @@ I'm Thibault, a developer from Bretagne, France 🇫🇷. I'm mostly self-taught
 
 Even if there is not a lot public on my GitHub, I experiment and read a lot.
 
-- 🔭 I’m currently working on Second Hand, a project I started to learn React
+- 🔭 I’m currently working on [Second Hand](https://github.com/Xorko/second-hand), a project I started to learn React
 - 🌱 I’m currently learning React at this moment
 - 🎓 I have a CS degree and I'm currently looking for a master's degree in software engineering
 - 📫 How to reach me: You can send me an <a href="mailto:thib.legoff@gmail.com">email</a>
