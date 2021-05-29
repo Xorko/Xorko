@@ -12,6 +12,7 @@ Even if there is not a lot public on my GitHub, I experiment and read a lot.
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25" />
+  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="25" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25" />
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" height="25" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25" />
@@ -27,5 +28,5 @@ Even if there is not a lot public on my GitHub, I experiment and read a lot.
 ### 📊 Stats
 <p>
   <img alt="Xorko's GitHub stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Xorko&count_private=true&show_icons=true&hide_border=true" />
-  <img alt="Xorko's top langs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xorko&count_private=true&show_icons=true&hide_border=true&langs_count=8" />
+  <img alt="Xorko's top langs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xorko&count_private=true&show_icons=true&hide_border=true&langs_count=8&layout=compact" />
 </p>
