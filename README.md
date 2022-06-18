@@ -1,9 +1,8 @@
 ### Hi there 👋
-I'm Thibault, a developer from Bretagne, France 🇫🇷. I'm mostly self-taught and passionate about code.
+I'm Thibault, a developer from Bretagne, France 🇫🇷.
 
-Even if there is not a lot public on my GitHub, I experiment and read a lot.
-
-- 🔭 I’m currently working with NextJS
+- 👨‍💻 I'm currently an intern at ASI
+- ❤️ My favorite framework is NextJS
 - 🐧 I love Linux
 - 🎓 I'm studying software engineering at [Université de Rennes 1](https://formations.univ-rennes1.fr/master-mention-informatique-parcours-ingenierie-logicielle)
 - 📫 If you want to reach me, you can send me an <a href="mailto:thib.legoff@gmail.com">email</a>
