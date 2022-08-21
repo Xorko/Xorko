@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Thibault, a developer from Bretagne, France 🇫🇷.
 
-- 👨‍💻 I'm currently an intern at ASI
+- 👨‍💻 I'm currently working at ASI
 - ❤️ My favorite framework is NextJS
 - 🐧 I love Linux
 - 🎓 I'm studying software engineering at [Université de Rennes 1](https://formations.univ-rennes1.fr/master-mention-informatique-parcours-ingenierie-logicielle)
