@@ -2,8 +2,7 @@
 I'm Thibault, a developer from Bretagne, France 🇫🇷.
 
 - 👨‍💻 I'm currently working at ASI
-- ❤️ My favorite framework is NextJS
-- 🐧 I love Linux
+- ❤️ I love React and native Android development
 - 🎓 I'm studying software engineering at [Université de Rennes 1](https://formations.univ-rennes1.fr/master-mention-informatique-parcours-ingenierie-logicielle)
 - 📫 If you want to reach me, you can send me an <a href="mailto:thib.legoff@gmail.com">email</a>
 
